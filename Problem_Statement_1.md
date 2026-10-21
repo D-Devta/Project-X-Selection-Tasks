@@ -1,7 +1,7 @@
 
-Problem statement 1 for RC PLANE 
+# Problem statement 1 for RC PLANE 
 
-Effects of geometry of air foil 
+"Effects of geometry of air foil "
 
 1. camber helps the in more lift at even lower speeds which helps heavy planes to lift and less usage of fuel
 2. 0 camber or symmetrical camber gives same behavior in upright and Inverted movement .......ehich is mostly use in aerobatics plane ( our B type plane )
@@ -24,7 +24,8 @@ We should took care of certain points :
 # 3 candidate Airfoil for case A: CLARK Y  , NACA 4412 , NACA 4414
 
 I think NACA 4412 will go best with this as:
-<img width="1058" height="151" alt="download (1)" src="https://github.com/user-attachments/assets/e88ae576-3ebe-4e03-847d-301c18cc24c9" />
+<img width="1053" height="146" alt="Screenshot 2026-10-21 220330" src="https://github.com/user-attachments/assets/5923c892-cdd0-4321-80e9-a9568ba05095" />
+
 
 
 1. it gives cember of around 4% ( equivalent in all abobe three )
@@ -52,7 +53,8 @@ we should keep things in mind :
 
 I think NACA 0012 would be suitable for our plane as:
 
-<img width="1058" height="151" alt="download" src="https://github.com/user-attachments/assets/e1cf45fc-39fc-4900-8867-c5a99c7d8640" />
+<img width="1043" height="141" alt="Screenshot 2026-10-21 220106" src="https://github.com/user-attachments/assets/728a1715-3518-428f-9621-30944e615377" />
+
 
 1. It thickness is moderate not to high or low 
    as thinner might get break off mid flight and more thicker will give more drag while flight 
