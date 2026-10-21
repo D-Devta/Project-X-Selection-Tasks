@@ -62,8 +62,20 @@ I think NACA 0012 would be suitable for our plane as:
 
 1. High L/D favours better glide at moderate angle of Attack
 2. lower CD is good for less drag and friction by air
+3. NACA 0012 is the balanced choice , NACA 0010 gives lower drag but it has higher stall.
 
 
+# whether one airfoil can satisfy both missions??
+
+A single same Airfoil is suitable for both the type of plane A and B as far as i researched , but still if we wanna use the same Airfoil in both we can use NACA
+2412 .......with 2% camber , max thickness at 405 chord lenght , 12% of thickness
+
+BUT COMES WITH SOME TRADE OFF 
+
+1. Since it has a camber of 2% it might create probmel in type B as for maneuver plane we need symmetrical behaviour upright and inverted .
+2. It will generate less lift at same speed compared to NAAC 4412 used in type A
+3. We might also have to add FLAPS in our design as we can't rely on airfoil alone .
+4. 
 
 
 
