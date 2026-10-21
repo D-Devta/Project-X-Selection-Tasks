@@ -7,9 +7,12 @@ Effects of geometry of air foil
 2. 0 camber or symmetrical camber gives same behavior in upright and Inverted movement .......ehich is mostly use in aerobatics plane ( our B type plane )
 3. thicker airfoil stall more gentley then the thiner one because of the round nose( as it can tolerate high angle of attack)  
    but experice drag at high speed
-4. thin leading edge is efficient but can stall easily 
+4. thin leading edge is efficient but can stall easily
 
-In case A …..Airfoil for the place with heavy payload while maintaining a stable flight:
+
+# IN CASE A......
+
+Airfoil for the place with heavy payload while maintaining a stable flight:
 We should took care of certain points :
 1 Paylaod will require more lift at low speed 
 2 Airfoil which provide stable Cruising in air 
@@ -18,7 +21,7 @@ We should took care of certain points :
 5 higher wing area 
 
 
-3 candidate Airfoil for case A: CLARK Y  , NACA 4412 , NACA 4414
+# 3 candidate Airfoil for case A: CLARK Y  , NACA 4412 , NACA 4414
 
 I think NACA 4412 will go best with this as:
 
