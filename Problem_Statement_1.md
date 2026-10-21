@@ -29,7 +29,28 @@ a. it gives cember of around 4% ( equivalent in all abobe three )
 b. the drag is comparitelvy lower in this 
 c. all the above airfoil give a negative pitching movement which we have to fix through tail to fix th Centre of Gravity 
 
+<img width="797" height="303" alt="Screenshot 2026-10-21 171754" src="https://github.com/user-attachments/assets/f0460f98-962e-44db-b7e5-2013025457db" />
+
+
 it's as bit hard to make then Clark Y as clark Y has almost flat bottom 
+
+
+
+#IN CASE B
+
+Airfoil for the plane optimized for maneuverability( aerobatic planes ) 
+we should keep things in mind :
+1. we will favour symmetric aerofoil as it will five same behaviour upright and inverted while loops and stunts .
+2. Thinner so it experince low drag and get predictable stall.
+3. roundeded leading edge so we can push high angle of attack .
+
+
+
+
+
+
+
+
 
 
 
