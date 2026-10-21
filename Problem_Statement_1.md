@@ -24,6 +24,8 @@ We should took care of certain points :
 # 3 candidate Airfoil for case A: CLARK Y  , NACA 4412 , NACA 4414
 
 I think NACA 4412 will go best with this as:
+<img width="1058" height="151" alt="download (1)" src="https://github.com/user-attachments/assets/e88ae576-3ebe-4e03-847d-301c18cc24c9" />
+
 
 1. it gives cember of around 4% ( equivalent in all abobe three )
 2. the drag is comparitelvy lower in this 
@@ -49,6 +51,9 @@ we should keep things in mind :
 # 3 candidates Airfoil : NACA 0010 , NACA 0012 , NACA 0015
 
 I think NACA 0012 would be suitable for our plane as:
+
+<img width="1058" height="151" alt="download" src="https://github.com/user-attachments/assets/e1cf45fc-39fc-4900-8867-c5a99c7d8640" />
+
 1. It thickness is moderate not to high or low 
    as thinner might get break off mid flight and more thicker will give more drag while flight 
 2. it also give only predictible stall which is required in maneuverablity.
@@ -57,6 +62,8 @@ I think NACA 0012 would be suitable for our plane as:
 <img width="892" height="342" alt="Screenshot 2026-10-21 194654" src="https://github.com/user-attachments/assets/9b6243b6-57f7-450f-a195-07307e835260" />
 
 * assumption chord lenght is 200mm
+
+for more info :https://airfolio.live/airfoils/naca0012
 
 <img width="880" height="467" alt="Screenshot 2026-10-21 195044" src="https://github.com/user-attachments/assets/53784d2a-5bcb-488b-a2f8-3d1bf9c79019" />
 
