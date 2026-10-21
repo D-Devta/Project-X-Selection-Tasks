@@ -55,7 +55,7 @@ b. it also give only predictible stall which is required in maneuverablity.
 c. has enough structural dept which will support airfoil
 
 <img width="892" height="342" alt="Screenshot 2026-10-21 194654" src="https://github.com/user-attachments/assets/9b6243b6-57f7-450f-a195-07307e835260" />
-
+* assumption chord lenght is 200mm
 
 
 
